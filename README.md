@@ -1,7 +1,7 @@
 # SimonSays
-Hæ ég heiti Andri Már og ég bjó til simon says spil úr hlutum sem mér var úthlutað. Í þessu verkefni átti ég að búa til simonsays, með tökkum og hljóði og ljósum.
-spilið er sett saman úr plexigler kassa og tökkum, arduino, vero bord, hátalara og nokkrum vírum.
-Til að tryggja að virarnir séu til friðs festi ég þá í skó og lóðaði við vero borðið.
+Hæ ég heiti Andri Már og ég bjó til simon says spil úr hlutum sem mér var úthlutað. Í þessu verkefni átti ég að búa til simonsays, með tökkum, hljóði og ljósum.
+Spilið er sett saman úr plexigler kassa og tökkum, arduino, vero bord, hátalara og nokkrum vírum.
+Til að tryggja að vírarnir séu til friðs festi ég þá í skó og lóðaði við vero borðið.
 
 
 video:
