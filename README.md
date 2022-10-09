@@ -1,7 +1,8 @@
 # SimonSays
-Hæ ég heiti Andri Már og ég bjó til simon says spil úr hlutum sem mér var úthlutað. Í þessu verkefni átti ég að búa til simonsays, með tökkum, hljóði og ljósum.
+Hæ, ég heiti Andri Már og ég bjó til SimonSays spil úr hlutum sem mér var úthlutað. Í þessu verkefni átti ég að búa til SimonSays, með tökkum, hljóði og ljósum.
 Spilið er sett saman úr plexigler kassa og tökkum, arduino, vero bord, hátalara og nokkrum vírum.
 Til að tryggja að vírarnir séu til friðs festi ég þá í skó og lóðaði við vero borðið.
+Kóðann fékk ég hjá kenaranum.
 
 
 video:
