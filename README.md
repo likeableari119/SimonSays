@@ -1,6 +1,8 @@
 # SimonSays
-#Hæ ég heiti Andri Már og ég bjó till simon says spill úr hlutum sem mér var skaffað. Í þessu verkefni átti ég að búa til simonsays, með tökkum og hljöði og ljösum.
-#Stutt verkefnalýsing, höfundur.
+##Lýsing
+#Hæ ég heiti Andri Már og ég bjó til simon says spil úr hlutum sem mér var úthlutað. Í þessu verkefni átti ég að búa til simonsays, með tökkum og hljóði og ljósum.
+#spilið er sett saman af plexigler kassa og tökkum, arduino, vero bord, hátalara og nokkrum vírum.
+#Til að tryggja að virarnir séu til friðs festi ég þá í skó og lóðaði við vero borðið
 #Tengil á myndband af virkni (spilun) lokafurðar.
 #Ljósmyndir af lokaafurð (inní kassa og utan)
 #Ljósmyndir af lóðun (báðar hliðar).
@@ -11,3 +13,4 @@
 ![20221008_212223](https://user-images.githubusercontent.com/111899397/194754599-eb26d73d-53c0-44dc-8b89-aa2000e8f99a.jpg)
 ![20221008_181240](https://user-images.githubusercontent.com/111899397/194754603-d20900fd-67c1-4411-91ed-7a6fefd54c87.jpg)
 https://www.youtube.com/shorts/DeL-_yGMHl4
+![box](https://user-images.githubusercontent.com/111899397/194755381-5e9e3c07-6a20-4248-a676-05e4857044ac.svg)
